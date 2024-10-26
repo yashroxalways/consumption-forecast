@@ -1,0 +1,6 @@
+-first collect data and add to a folder
+-create a python code for execution and selenium test
+-add requirement.txt as needed and dockerfile 
+-run this on cmd and upload on docker
+-now upload this file in git repository
+-then add this git repository on jenkins 
